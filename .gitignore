@@ -1,5 +1,1 @@
-# ignore all logs 
-*.pyold
-git rm -r --cached .  
-git add .
-git commit -m 'Removing ignored files'
+
